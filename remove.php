@@ -1,6 +1,7 @@
 <?php 
 
 //Enter it as it is and escape any single quotes
+//Replace Malicious Code
 
 $find='Malicious Code';
 
